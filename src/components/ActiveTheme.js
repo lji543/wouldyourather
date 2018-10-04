@@ -31,7 +31,7 @@ export class ActiveTheme extends React.Component{
     }
 
     return (
-      <div>
+      <div className="App-body">
         {game}
       </div>
     );

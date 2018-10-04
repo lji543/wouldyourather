@@ -19,14 +19,3 @@ export class Navigation extends React.Component{
 }
 
 export default Navigation;
-
-// <nav>
-//   <ul>
-//     <li>
-//       <Link to="Questions">Questions</Link>
-//     </li>
-//     <li>
-//       <Link to="Topics">Topics</Link>
-//     </li>
-//   </ul>
-// </nav>

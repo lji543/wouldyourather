@@ -20,7 +20,9 @@ class App extends Component {
     return (
       <div className="App">
         <Navigation />
-        <AddTheme path={this.props.path}/>
+        <div className="App-body">
+          <AddTheme path={this.props.path}/>
+        </div>
       </div>
     );
   }
