@@ -1,15 +1,29 @@
 import React from 'react';
 
-export class ActiveTheme extends React.Component{
-constructor(props) {
-    super(props);
+import Question from './Question';
+import Topic from './Topic';
 
+export class ActiveTheme extends React.Component{
+
+  constructor(props) {
+    super(props);
+    console.log(props)
+  }
+
+  whichGame = () => {
+    if (this.props) {
+      return <div><Question /></div>
+    } else {
+      return <div><Topic /></div>
+    }
   }
 
   render() {
 
     return (
-      <div>ACTIVE THEME</div>
+      <div>
+        <Question />
+      </div>
     );
   }
 }

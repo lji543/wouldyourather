@@ -1,15 +1,21 @@
 import React from 'react';
+import { Link } from "@curi/react-dom";
 
 export class Navigation extends React.Component{
-constructor(props) {
-    super(props);
-
-  }
 
   render() {
 
     return (
-      <div>navbar</div>
+      <nav>
+        <ul>
+          <li>
+            <Link to="Questions">Questions</Link>
+          </li>
+          <li>
+            <Link to="Topics">Topics</Link>
+          </li>
+        </ul>
+      </nav>
     );
   }
 }

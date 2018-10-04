@@ -1,7 +1,8 @@
 import React from 'react';
 
 export class AddQuestion extends React.Component{
-constructor(props) {
+
+  constructor(props) {
     super(props);
 
   }

@@ -1,7 +1,8 @@
 import React from 'react';
 
 export class AddTopic extends React.Component{
-constructor(props) {
+
+  constructor(props) {
     super(props);
 
   }
