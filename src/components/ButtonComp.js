@@ -12,7 +12,7 @@ export class ButtonComp extends React.Component{
 
     return (
       <div>
-        <Button waves='light'>{this.props.buttonText}
+        <Button waves='light' onClick={this.props.onClick}>{this.props.buttonText}
           <Icon left>{this.props.buttonIcon}</Icon>
         </Button>
       </div>

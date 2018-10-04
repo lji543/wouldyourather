@@ -1,22 +1,18 @@
 import React from 'react';
 
+import data from '../data.json'
+
 import ButtonComp from './ButtonComp';
 
 export class Question extends React.Component{
 
   buttonText = 'Next';
 
+
+
   words = {
-    nouns: [
-      "your cousin",
-      "your mom",
-      "your sibling"
-    ],
-    verbs: [
-      "float",
-      "marry",
-      "code"
-    ]
+    nouns: data.nouns,
+    verbs: data.verbs
   };
 
   question: '';
@@ -27,6 +23,7 @@ export class Question extends React.Component{
   }
 
   newQuestion = () => {
+    console.log('newQuestion')
     this.setState({question:this.question});
   }
 
