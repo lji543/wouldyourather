@@ -6,7 +6,7 @@ import Browser from '@hickory/browser';
 import { curiProvider } from '@curi/react-dom';
 import routes from './routes';
 
-import './styles/css/index.css';
+import './scss/App.scss';
 
 import App from './App';
 
@@ -16,11 +16,13 @@ const history = Browser();
 const router = curi(history, routes);
 const Router = curiProvider(router);
 
+const pathname = history.location.pathname;
+
 ReactDOM.render(<Router>
     {({ response }) => {
       return (
         <div>
-          <App />
+          <App path={pathname}/>
           <response.body params={response.params} />
         </div>
       );

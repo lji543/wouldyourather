@@ -1,6 +1,10 @@
 import React from 'react';
 
+import ButtonComp from './ButtonComp';
+
 export class Question extends React.Component{
+
+  buttonText = 'Next';
 
   words = {
     nouns: [
@@ -47,17 +51,18 @@ export class Question extends React.Component{
 
   render() {
     // {{this.question}}
+    // <h2>Would you rather?</h2>
     this.constructVerbPhrase();
 
     return (
       <div>
 
         <div>
-          <h2>Would you rather?</h2>
+
           <div>
             {this.question}
           </div>
-          <button onClick={this.newQuestion}>Next</button>
+          <ButtonComp onClick={this.newQuestion} buttonText={this.buttonText}></ButtonComp>
         </div>
 
       </div>

@@ -3,12 +3,14 @@ import React from 'react';
 import Question from './Question';
 import Topic from './Topic';
 
+import Browser from '@hickory/browser'
+
 export class ActiveTheme extends React.Component{
 
-  constructor(props) {
-    super(props);
-    console.log(props)
-  }
+  // constructor(props) {
+  //   super(props);
+  //   // console.log(props)
+  // }
 
   whichGame = () => {
     if (this.props) {
@@ -19,10 +21,18 @@ export class ActiveTheme extends React.Component{
   }
 
   render() {
+    let game;
+    let path = Browser().location.pathname
+
+    if (path === '/topics') {
+      game = <Topic />;
+    } else {
+      game = <Question />;
+    }
 
     return (
       <div>
-        <Question />
+        {game}
       </div>
     );
   }
