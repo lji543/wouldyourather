@@ -4,7 +4,7 @@ import data from '../data.json'
 
 import ButtonComp from './ButtonComp';
 
-export class Question extends React.Component{
+export class QuestionGenerator extends React.Component{
 
   buttonText = 'Next';
 
@@ -22,17 +22,14 @@ export class Question extends React.Component{
     this.state = {question:this.question};
   }
 
-  newQuestion = () => {
+  newQuestion = () =>
     this.setState({question:this.question});
-  }
 
-  randomWord = (arr) => {
+  randomWord = arr =>
     return arr[Math.floor(Math.random()*arr.length)];
-  }
 
-  capitalize = (string) => {
+  capitalize = string =>
     return string.charAt(0).toUpperCase() + string.slice(1);
-  }
 
   constructVerbPhrase = () => {
     let firstNoun = this.randomWord(this.words.nouns);
@@ -40,13 +37,14 @@ export class Question extends React.Component{
 
     // Make sure both nouns are not the same
     if (firstNoun === secondNoun) {
+      console.log(firstNoun, secondNoun)
       secondNoun = this.randomWord(this.words.nouns);
     }
 
     let verb = this.randomWord(this.words.verbs);
 
     this.question =
-      `${this.capitalize(verb)} ${firstNoun}, or ${verb} ${secondNoun}?`
+      `${this.capitalize(verb)} ${firstNoun}, or ${verb} ${secondNoun}?`;
   }
 
   render() {
@@ -55,19 +53,16 @@ export class Question extends React.Component{
     this.constructVerbPhrase();
 
     return (
+
       <div>
-
         <div>
-
-          <div>
-            {this.question}
-          </div>
-          <ButtonComp onClick={this.newQuestion} buttonText={this.buttonText}></ButtonComp>
+          {this.question}
         </div>
-
+        <ButtonComp onClick={this.newQuestion} buttonText={this.buttonText}></ButtonComp>
       </div>
+
     );
   }
 }
 
-export default Question;
+export default QuestionGenerator;
