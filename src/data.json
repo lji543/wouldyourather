@@ -10,5 +10,32 @@
     "your best friend's mom",
     "your cousin",
     "a baby"
+  ],
+  "questionBank": [
+    {
+      "q": "be able to see 10 minutes into your own future or 10 minutes into the future of anyone but yourself",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "q": "be famous when you are alive and forgotten when you die or unknown when you are alive but famous after you die",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "q": "go to jail for 4 years for something you didn’t do or get away with something horrible you did but always live in fear of being caught",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "q": "accidentally be responsible for the death of a child or accidentally be responsible for the deaths of three adults",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "q": "the general public think you are a horrible person but your family be very proud of you or your family think you are a horrible person but the general public be very proud of you",
+      "category": ["pg"],
+      "group": []
+    }
   ]
 }

@@ -11,7 +11,7 @@ export class ButtonComp extends React.Component{
   render() {
 
     return (
-      <div>
+      <div className="wyr-button">
         <Button waves='light' onClick={this.props.onClick}>{this.props.buttonText}
           <Icon left>{this.props.buttonIcon}</Icon>
         </Button>
