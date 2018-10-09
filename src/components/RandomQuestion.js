@@ -2,9 +2,7 @@ import React from 'react';
 
 import data from '../data.json'
 
-import ButtonComp from './ButtonComp';
-
-export class QuestionGenerator extends React.Component{
+export class RandomQuestion extends React.Component{
 
   buttonText = 'Next';
 
@@ -21,15 +19,15 @@ export class QuestionGenerator extends React.Component{
     super(props)
     this.state = {question:this.question};
   }
-
+  
   newQuestion = () =>
     this.setState({question:this.question});
 
   randomWord = arr =>
-    return arr[Math.floor(Math.random()*arr.length)];
+    arr[Math.floor(Math.random()*arr.length)];
 
   capitalize = string =>
-    return string.charAt(0).toUpperCase() + string.slice(1);
+    string.charAt(0).toUpperCase() + string.slice(1);
 
   constructVerbPhrase = () => {
     let firstNoun = this.randomWord(this.words.nouns);
@@ -37,7 +35,7 @@ export class QuestionGenerator extends React.Component{
 
     // Make sure both nouns are not the same
     if (firstNoun === secondNoun) {
-      console.log(firstNoun, secondNoun)
+      // TODO needs secondary check, the words could still be the same
       secondNoun = this.randomWord(this.words.nouns);
     }
 
@@ -55,14 +53,11 @@ export class QuestionGenerator extends React.Component{
     return (
 
       <div>
-        <div>
-          {this.question}
-        </div>
-        <ButtonComp onClick={this.newQuestion} buttonText={this.buttonText}></ButtonComp>
+        {this.question}
       </div>
 
     );
   }
 }
 
-export default QuestionGenerator;
+export default RandomQuestion;

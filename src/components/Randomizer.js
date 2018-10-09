@@ -1,18 +1,22 @@
 import React from 'react';
 
-export class Randomizer extends React.Component{
+const Randomizer = props => {
 
-  render() {
+  const getRandomInt = max =>
+    Math.floor(Math.random() * Math.floor(max))
 
+  const randomWord = arr =>
+    arr[Math.floor(Math.random()*arr.length)]
+
+  if (props.max) {
     return (
-
-      <Navbar brand='WYR' right>
-        <NavItem href='/questions'>Questions</NavItem>
-        <NavItem href='/topics'>Topics</NavItem>
-      </Navbar>
-
+      getRandomInt(props.max)
     );
   }
+
+  return (
+    randomWord(props.arr)
+  );
 }
 
 export default Randomizer;
