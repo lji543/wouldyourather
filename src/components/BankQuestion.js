@@ -4,8 +4,6 @@ import data from '../data.json'
 
 export class BankQuestion extends React.Component{
 
-  buttonText = 'Next';
-
   questionBank = data.questionBank;
 
   question: '';

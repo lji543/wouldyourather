@@ -2,40 +2,2044 @@
   "verbs": [
     "kill",
     "jump",
-    "skip",
-    "hit"
+    "hit",
+    "fuck",
+    "kiss"
   ],
   "nouns": [
     "your mom",
     "your best friend's mom",
     "your cousin",
-    "a baby"
+    "a baby",
+    "a dog"
+  ],
+  "topics": [
+    {
+      "t": "What did you get into trouble for the most when you were young",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "If you could do something dangerous just once with no risk what would you do",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "Which is more important intelligence or common sense",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "Which historical sporting event would you like to witness",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What’s the biggest question you have about the future",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What’s your most prized possession",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "Who’s the most interesting person you’ve met on your travels",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What’s your favorite moment of the day",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "If you were completely switch direction career-wise what would you be interested in doing",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What's your favorate memory of when you were dating someone (past or present)",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What was your strangest date ever",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "Does size matter",
+      "category": ["r"],
+      "group": []
+    },
+    {
+      "t": "Which of your mother’s silly instructions do you still obey",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "If you’re in denial about one thing, what is it",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What’s your most embarrassing phobia",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "If you could invite all of your friends to an all-expense paid party what kind would you throw",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What will you remember the most about the past year",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What do you think of first when you wake up in the morning",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "If you could teleport and instantly appear anywhere right now, where would you go",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What life lesson did you learn the hard way?",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What do you wish you spent more time doing five years ago?",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "Who do you love and what are you doing about it",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What can you do today that you were not capable of a year ago",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What would you do differently if you knew nobody would judge you",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "If you had to teach something, what would you teach",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What would you regret not fully doing, being or having in your life",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "How old would you be if you didn’t know how old you are",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What is the most desirable trait another person can possess",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What are you most grateful for",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What is the one thing you would most like to change about the world",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "Where do you find inspiration",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What is the most defining moment of your life thus far",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "If you had the chance to go back in time and change one thing would you do it",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What’s the one thing you’d like others to remember about you at the end of your life",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What do you have that you cannot live without",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What would you not give up for $1,000,000 in cash",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "If someone could tell you the exact day and time you are going to die, would you want them to tell you",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "If you could live one day of your life over again, what day would you choose",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "If you could live the next 24 hours and then erase it and start over just once, what would you do",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "How have you changed in the last five years",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What makes a person beautiful?",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What did you want to be when you grew up",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "How will today matter in five years from now",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "How have you helped someone else recently",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What has been the most terrifying moment of your life thus far",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What is your fondest memory from the past three years",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What is the nicest thing someone has ever done for you",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What do you do to deliberately impress others",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What is the greatest peer pressure you’ve ever felt",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What three questions do you wish you knew the answers to",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What’s the biggest lie you once believed was true",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "In your lifetime, what have you done that hurt someone else",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "Where else would you like to live and why",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What is your greatest strength",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What is your greatest weakness",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "When was the last time you lied? What did you lie about",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What made you smile this week",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "When was the last time you lost your temper? About what",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What is the most spontaneous thing you’ve ever done",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What would you like to change about yourself",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What makes you weird",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What’s something most people don’t know about you",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What one person has had the biggest impact on your life",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "top three things you notice first about the opposite sex",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "top three ideal qualities in a SO/partner",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "If you had to be someone else for one day, who would you be and why",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "Who makes you feel good about yourself",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What’s something you don’t like to do that you are still really good at",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "Who do you try to please the most",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "When you meet someone for the very first time what do you want them to think about you",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "At what point during the last five years have you felt lost and alone",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What is one opportunity you believe you missed out on when you were younger",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What do you want more of in your life",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What do you want less of in your life",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "Who depends on you",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What are you most excited about in your life right now – today",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What experience from this past year do you appreciate the most",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What’s something new you recently learned about yourself",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What are the top three qualities you look for in a friend",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What recent memory makes you smile the most",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "If you were given $1000 and told you that you had to spend it today, what would you buy",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "Who was the last person you said “I love you” to",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What are some recent compliments you’ve received",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "When was your first impression of someone totally wrong",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What do you love to do",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What specific character trait do you want to be known for?",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "Are you more like your mom or your dad? In what way",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What bad habits do you want to break",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What is your favorite place on Earth",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What is something you have always wanted since you were a kid",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "When did you not speak up when you should have",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "Where or who do you turn to when you need good advice",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What’s something you wish you had done earlier in life",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What is the closest you have ever come to fearing for your life",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What’s a quick decision you once made that changed your life",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What stresses you out",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "When in your life have you been a victim of stereotyping",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "What weird tricks can you do with your face or body",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "When was the last time you were mean to someone",
+      "category": [],
+      "group": []
+    },
+    {
+      "t": "When was the last time you drunk dialed/texted someone",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever seen an actual tornado",
+      "category": ["g"],
+      "group": []
+    },
+    {
+      "t": "have you ever seen a human baby, or a baby animal be born",
+      "category": ["g"],
+      "group": []
+    },
+    {
+      "t": "have you ever paid for a stranger’s meal or drink, without them knowing it was you",
+      "category": ["g"],
+      "group": []
+    },
+    {
+      "t": "have you ever found a wallet or a money that someone dropped",
+      "category": ["g"],
+      "group": []
+    },
+    {
+      "t": "have you ever showered with someone of the opposite sex",
+      "category": ["r"],
+      "group": []
+    },
+    {
+      "t": "have you ever had a pregnancy scare",
+      "category": [""],
+      "group": []
+    },
+    {
+      "t": "have you ever worn special clothes to cover up a hickey",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever had sex with a person whose name you didn’t know",
+      "category": ["r"],
+      "group": []
+    },
+    {
+      "t": "when was the last time you went commando",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "when was the last time you had sex in the back seat of a car, or the back of a truck",
+      "category": ["r"],
+      "group": []
+    },
+    {
+      "t": "what was your last sex dream about",
+      "category": ["r"],
+      "group": []
+    },
+    {
+      "t": "when was the last time you faked being sick",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "what was your best date",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "what don't women want",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "who do you dislike with no good reason",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What’s the most unusual gift you have received",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What body part are you most attracted to",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "what was your worst breakup",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What would be a good addition to the human body",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "Have you ever walked in on someone having sex",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "Who’s your most annoying relative",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "what's your favorite raunchy movie/porn",
+      "category": ["r"],
+      "group": []
+    },
+    {
+      "t": "What skill do you possess that most people don’t know about",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "Have you ever been fired",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What’s a taboo you haven’t tried but are curious about",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What habit would you like to break",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What’s the worst thing you’d do for a million dollars",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What’s the most embarrassing lie you’ve told",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What’s the most unfortunate thing you’ve done under the influence",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What’s the most extravagant thing you’ve ever purchased",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What’s your sexiest outfit",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "what's the worst part of getting older",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What celebrity are you embarrassed to find attractive",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "Where’s the worst place you’ve had to relieve yourself",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "How far into pregnancy should abortion be allowed",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What’s the wildest party you’ve been to",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What’s the biggest crime you’ve committed",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What’s your biggest pet peeve",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What would be one good thing about being the opposite sex",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "Would it be worst to discover your teen had thrown a kegger in your house, slept with her boyfriend in your bed, or wrecked your car",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "Have you witnessed a crime",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What’s your favorite dirty word and why",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What’s the poorest you’ve ever been",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "Have you ever been in a physical fight",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What stereotypes of your minority group do you fit",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "Did you ever run away from home",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "Would you rather be in big trouble with you partner, boss, or mother",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "Have you ever been escorted out by security",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What is your wildest sexual fantasy",
+      "category": ["r"],
+      "group": []
+    },
+    {
+      "t": "What is the wildest thing you have ever done in your life",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "Have you ever kissed someone of the same gender",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "If someone offered you $100,000, would you marry someone you didn't love",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "Do you have a crush on someone",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What color underwear are you wearing right now",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "Have you followed someone into a restroom with the intention of kissing him/her",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "Have you ever done a striptease for your special someone",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What is the silliest thing you have said during sex",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What is the sexiest pick-up line you have ever heard/used",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What's the worst thing about being a guy/a girl",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "Have you ever lied to your partner about being with others (before you were with him/her)",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "what's the story of your first kiss",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What would your perfect date be",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "If you could live anywhere in the world without having to worry about leaving friends/family behind, where would you want to live",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What’s your favorite thing about each person in the room",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "What’s the worst thing you’ve ever done",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "If you had to pick a favorite sex position, what would it be",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever had to run to save your life",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever injured yourself while trying to impress a girl/guy you were interested in",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever snooped through a friend’s bathroom or bedroom without them knowing",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever shoplifted",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever cheated on a test",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever dined and dashed",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever accidentally said 'I love you' to someone.",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever been on TV or the radio",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever had a crush on a friend’s parent",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever been awake for two days straight",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever had someone slap you across the face",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever chipped a tooth",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever spent a night in the woods with no shelter",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever lied about a family member dying as an excuse to get out of doing something",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever been electrocuted",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever had a bad allergic reaction",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever thought you were going to drown",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever called someone the wrong name during sex",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "when was the last time you made out with a stranger",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever eaten food out of a trash can",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever farted in public, smelt it, and enjoyed it",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever lied about my 'number' to avoid judgement",
+      "category": ["sex"],
+      "group": []
+    },
+    {
+      "t": "what's your 'number'",
+      "category": ["sex"],
+      "group": []
+    },
+    {
+      "t": "have you ever sent a dirty text to the wrong person",
+      "category": ["sex"],
+      "group": []
+    },
+    {
+      "t": "have you ever peed yourself in public as an adult",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you (or a partner) ever been pregnant",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever had an STD scare",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever had sex with a friend’s parent, or parents",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "have you ever used a common household item as a sex toy and put it back where it belongs",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "",
+      "category": ["pg"],
+      "group": []
+    },
+    {
+      "t": "",
+      "category": ["pg"],
+      "group": []
+    }
   ],
   "questionBank": [
     {
       "q": "be able to see 10 minutes into your own future or 10 minutes into the future of anyone but yourself",
       "category": ["pg"],
-      "group": []
+      "group": ["friends"]
     },
     {
       "q": "be famous when you are alive and forgotten when you die or unknown when you are alive but famous after you die",
       "category": ["pg"],
-      "group": []
+      "group": ["friends"]
     },
     {
       "q": "go to jail for 4 years for something you didn’t do or get away with something horrible you did but always live in fear of being caught",
       "category": ["pg"],
-      "group": []
+      "group": ["friends"]
     },
     {
       "q": "accidentally be responsible for the death of a child or accidentally be responsible for the deaths of three adults",
       "category": ["pg"],
-      "group": []
+      "group": ["friends"]
     },
     {
       "q": "the general public think you are a horrible person but your family be very proud of you or your family think you are a horrible person but the general public be very proud of you",
       "category": ["pg"],
-      "group": []
+      "group": ["friends"]
+    },
+    {
+      "q": "wear monokini forever or never visit a beach again",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "have sex with a person who breathes bad or with someone who hasn’t bathed for a long time",
+      "category": ["r", "sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "wear revealing clothes forever or would always wear fully covered clothes while making out",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "kiss your ex's ass or your pet’s ass",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "lose your virginity with a total stranger or with someone you hate the most",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "eat your already dead friend or kill your dog and eat it when you are marooned on a lonely island",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "end death due to car accidents or end terrorism",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "leave your unemployed son homeless or pay for his drug habits and illegal activities",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "end the life a single human being or 100 cute baby animals",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "read minds or accurately predict future",
+      "category": ["g"],
+      "group": ["friends"]
+    },
+    {
+      "q": "visit 100 years in the past or 100 years in the future",
+      "category": ["g"],
+      "group": ["friends"]
+    },
+    {
+      "q": "pay for having sex, or get paid for it",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "have sex with your mom/dad's best friend, or with your best friend",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "spit or swallow",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "be caught cheating or catch your spouse cheating",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "let your significant other sleep with your best friend or sleep with your significant other’s best friend",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "date someone with a great personality who's bad in bed, or someone that's amazing in bed but with a boring personality",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "have an average SO with a great personality or a hot SO with a boring personality",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "achieve orgasm with your own or make out with someone but without any excitement",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "have your mom hear you while you are having an erotic orgasm or let your mom walk in while you are making out",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "burp uncontrollably or fart uncontrollably while having sex",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "sweat profusely and smell awful while tempting your partner or eat while watching your partner making out with your ex",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "walk in your partner having an orgasm with the ex or walk in your bestie doing so with your partner",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "have a boring sex life or have an exciting sex and romantic life, but everything is public",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "be in a relationship who remains totally silent during sex or moans all the time",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "talk dirty or sext",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "have fetishes for sweat or for armpits",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "announce your fetishes/fantasies on the first date or have them secret forever",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "be an amazingly hot person or a genius, but super ugly",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "be one of the richest people in the world and never have sex, or be one of the poorest, but have a great sex life",
+      "category": ["r","sex"],
+      "group": ["friends"]
+    },
+    {
+      "q": "lose all of your old memories or never be able to make new ones",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "your child be less attractive and extremely intelligent or extremely attractive and less intelligent",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "be 10% smarter or 10% better looking",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "have more friends or be closer to the ones you have",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "have everyone love you but hate yourself or have everyone hate you but love yourself",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "be trapped on a rope bridge over a canyon or in a dark cramped cage",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "q": "",
+      "category": ["pg"],
+      "group": ["friends"]
     }
   ]
 }

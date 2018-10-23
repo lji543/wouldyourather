@@ -19,7 +19,7 @@ export class RandomQuestion extends React.Component{
     super(props)
     this.state = {question:this.question};
   }
-  
+
   newQuestion = () =>
     this.setState({question:this.question});
 

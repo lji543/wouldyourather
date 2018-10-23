@@ -5,44 +5,84 @@ import BankQuestion from './BankQuestion';
 import ButtonComp from './ButtonComp';
 
 
-let int = Math.floor(Math.random() * Math.floor(2));
-let questionType;
-// TODO use randomizer here
-if (int === 0) {
-  questionType = <BankQuestion />;
-} else {
-  questionType = <RandomQuestion />;
-};
+export class Question extends React.Component{
 
-// state = {
-//   question
-// }
-// add some sort of event handler as props to the question components
+  int = Math.floor(Math.random() * Math.floor(2));
 
-const Question = props =>
+  questionType = [
+    {id:'bank',title:'Bank Q\'s',component:<BankQuestion />},
+    {id:'random',title:'Random Q\'s',component:<RandomQuestion />},
+    {id:'all',title:'All Q\'s',component:''}
+  ];
+
+  state = {
+    question: this.questionType[0]
+  }
+
+
+  handleClickNextQuestion = e => {
+    console.log(this.state.question.id)
+    let id = this.state.question.id;
+    let component;
+
+    if (id === 'bank') {
+      component = <BankQuestion />;
+    } else if (id === 'random') {
+      component = <RandomQuestion />;
+    } else {
+      component = this.pickARandomQuestion();
+    }
+
+    this.setState({question:{component: component}});
+  }
+
+  handleCategoryChange = e => {
+    let id = e.target.getAttribute('href').slice(1);
+    let question;
+
+    question = this.questionType.filter(obj => {
+      if (obj.id === 'all') {
+        obj.component = this.pickARandomQuestion();
+      }
+      return obj.id === id;
+    })
+
+    this.setState({question:question[0]})
+  }
+
+  pickARandomQuestion = () => {
+    if (this.int === 0) {
+      return <BankQuestion />;
+    }
+    return <RandomQuestion />;
+  }
+
+
   // TODO double const here? use correct react/es6 setup
   // TODO make all tab active on initial page load
   // TODO loop through these tabs/divs and replace hardcoded keywords
-  <div>
-    <div className="row">
-      <div className="col s12">
-        <ul className="tabs">
-          <li className="tab col s3"><a href="#random">Random Q&apos;s</a></li>
-          <li className="tab col s3"><a href="#bank">Bank Q&apos;s</a></li>
-          <li className="tab col s3"><a href="#all">All Q&apos;s</a></li>
-        </ul>
+  render () {
+
+    return (
+      <div>
+        <div className="row">
+          <div className="col s12">
+            <ul className="tabs">
+              {this.questionType.map(obj => {
+                let href = `#${obj.id}`;
+                return <li onClick={this.handleCategoryChange} key={obj.id} className="tab col s3"><a href={href}>{obj.title}</a></li>
+              })}
+            </ul>
+          </div>
+
+          <div id="{this.state.question.id}" className="col s12 question-container">{this.state.question.component}</div>
+        </div>
+
+        <ButtonComp onClick={this.handleClickNextQuestion} buttonText='Next'></ButtonComp>
       </div>
-      <div id="random" className="col s12 question-container">
-        <RandomQuestion />
-      </div>
-      <div id="bank" className="col s12 question-container">
-        <BankQuestion />
-      </div>
-      <div id="all" className="col s12 question-container">
-        {questionType}
-      </div>
-    </div>
-    <ButtonComp onClick={props.newQuestion} buttonText='Next'></ButtonComp>
-  </div>;
+    )
+  }
+
+}
 
 export default Question;

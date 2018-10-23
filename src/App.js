@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import fire from './fire';
 
 // import ActiveTheme from './components/ActiveTheme';
 import AddTheme from './components/AddTheme';
