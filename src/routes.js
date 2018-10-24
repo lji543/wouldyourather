@@ -55,26 +55,15 @@ const routes = [
       };
     },
   },
-  // {
-  //   name: "Question",
-  //   path: "question",
-  //   response: () => {
-  //     return {
-  //       body: Question
-  //     };
-  //   },
-  //   children: [
-  //     {
-  //       name: "Method",
-  //       path: ":method",
-  //       response: () => {
-  //         return {
-  //           body: Method
-  //         };
-  //       }
-  //     }
-  //   ]
-  // },
+  {
+    name: "Everything",
+    path: "everything",
+    response: () => {
+      return {
+        body: ActiveTheme
+      };
+    },
+  },
   {
     name: "NotFound",
     path: "(.*)",

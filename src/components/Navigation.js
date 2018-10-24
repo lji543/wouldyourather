@@ -12,6 +12,7 @@ export class Navigation extends React.Component{
       <Navbar brand='WYR' right>
         <NavItem href='/questions'>Questions</NavItem>
         <NavItem href='/topics'>Topics</NavItem>
+        <NavItem href='/everything'>Everything</NavItem>
       </Navbar>
 
     );

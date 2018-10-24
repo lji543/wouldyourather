@@ -21,19 +21,30 @@ export class Question extends React.Component{
 
 
   handleClickNextQuestion = e => {
-    console.log(this.state.question.id)
     let id = this.state.question.id;
-    let component;
+    let question;
 
+    // TODO: Cleanup
     if (id === 'bank') {
-      component = <BankQuestion />;
+      question = this.questionType.filter(obj => {
+        return obj.id === id;
+      });
+      question[0].component = <BankQuestion />;
+
     } else if (id === 'random') {
-      component = <RandomQuestion />;
+      question = this.questionType.filter(obj => {
+        return obj.id === id;
+      });
+      question[0].component = <RandomQuestion />;
+
     } else {
-      component = this.pickARandomQuestion();
+      question = this.questionType.filter(obj => {
+        return obj.id === id;
+      });
+      question[0].component = this.pickARandomQuestion();
     }
 
-    this.setState({question:{component: component}});
+    this.setState({question:question[0]});
   }
 
   handleCategoryChange = e => {
@@ -45,9 +56,9 @@ export class Question extends React.Component{
         obj.component = this.pickARandomQuestion();
       }
       return obj.id === id;
-    })
+    });
 
-    this.setState({question:question[0]})
+    this.setState({question:question[0]});
   }
 
   pickARandomQuestion = () => {

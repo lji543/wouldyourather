@@ -16,7 +16,7 @@ export class BankQuestion extends React.Component{
   newQuestion = () =>
     this.setState({question:this.question});
 
-  randomQuestion = () => {
+  getRandomQuestion = () => {
     this.question = this.questionBank[Math.floor(Math.random()*this.questionBank.length)].q;
     this.question = this.capitalize(this.question) + '?';
   }
@@ -26,12 +26,13 @@ export class BankQuestion extends React.Component{
     string.charAt(0).toUpperCase() + string.slice(1);
 
   render() {
-    this.randomQuestion();
+    this.getRandomQuestion();
 
     return (
 
       <div>
-        {this.question}
+        <div>Would you Rather...</div>
+        <div>{this.question}</div>
       </div>
 
     );
