@@ -1,5 +1,4 @@
 import React from 'react';
-// import { Link } from "@curi/react-dom";
 
 import { Navbar, NavItem } from 'react-materialize'
 
@@ -13,6 +12,7 @@ export class Navigation extends React.Component{
         <NavItem href='/questions'>Questions</NavItem>
         <NavItem href='/topics'>Topics</NavItem>
         <NavItem href='/everything'>Everything</NavItem>
+        <NavItem href='/add'>Add Your Own</NavItem>
       </Navbar>
 
     );

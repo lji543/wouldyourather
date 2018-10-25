@@ -72,10 +72,11 @@ export class Question extends React.Component{
   // TODO double const here? use correct react/es6 setup
   // TODO make all tab active on initial page load
   // TODO loop through these tabs/divs and replace hardcoded keywords
+  // TODO this is basically the same as AddTheme (combine)
   render () {
 
     return (
-      <div>
+      <div className="theme-container">
         <div className="row">
           <div className="col s12">
             <ul className="tabs">

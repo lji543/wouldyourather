@@ -1,4 +1,5 @@
 import ActiveTheme from './components/ActiveTheme';
+import AddTheme from './components/AddTheme';
 // import AddQuestion from './components/AddQuestion';
 // import AddTopic from './components/AddTopic';
 // import Question from './components/Question';
@@ -61,6 +62,15 @@ const routes = [
     response: () => {
       return {
         body: ActiveTheme
+      };
+    },
+  },
+  {
+    name: "Add Your Own",
+    path: "add",
+    response: () => {
+      return {
+        body: AddTheme
       };
     },
   },
