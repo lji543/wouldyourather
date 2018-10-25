@@ -7,19 +7,18 @@ import ButtonComp from './ButtonComp';
 
 export class Question extends React.Component{
 
-  int = Math.floor(Math.random() * Math.floor(2));
+  constructor(props) {
+    super(props);
+    this.handleClickNextQuestion = this.handleClickNextQuestion.bind(this);
 
-  questionType = [
-    {id:'bank',title:'Bank Q\'s',component:<BankQuestion />},
-    {id:'random',title:'Random Q\'s',component:<RandomQuestion />},
-    {id:'all',title:'All Q\'s',component:''}
-  ];
-
-  state = {
-    question: this.questionType[0]
+    this.state = {
+      question: this.questionType[0]
+    }
   }
 
+  int = Math.floor(Math.random() * Math.floor(2));
 
+  // Must be definied before we send as props to the question components
   handleClickNextQuestion = e => {
     let id = this.state.question.id;
     let question;
@@ -29,13 +28,13 @@ export class Question extends React.Component{
       question = this.questionType.filter(obj => {
         return obj.id === id;
       });
-      question[0].component = <BankQuestion />;
+      question[0].component = <BankQuestion handleClick={this.handleClickNextQuestion} />;
 
     } else if (id === 'random') {
       question = this.questionType.filter(obj => {
         return obj.id === id;
       });
-      question[0].component = <RandomQuestion />;
+      question[0].component = <RandomQuestion handleClick={this.handleClickNextQuestion} />;
 
     } else {
       question = this.questionType.filter(obj => {
@@ -46,6 +45,12 @@ export class Question extends React.Component{
 
     this.setState({question:question[0]});
   }
+
+  questionType = [
+    {id:'bank',title:'Bank Q\'s',component:<BankQuestion handleClick={this.handleClickNextQuestion}/>},
+    {id:'random',title:'Random Q\'s',component:<RandomQuestion handleClick={this.handleClickNextQuestion}/>},
+    {id:'all',title:'All Q\'s',component:''}
+  ];
 
   handleCategoryChange = e => {
     let id = e.target.getAttribute('href').slice(1);
@@ -62,10 +67,12 @@ export class Question extends React.Component{
   }
 
   pickARandomQuestion = () => {
+    this.int = Math.floor(Math.random() * Math.floor(2));
+    
     if (this.int === 0) {
-      return <BankQuestion />;
+      return <BankQuestion handleClick={this.handleClickNextQuestion} />;
     }
-    return <RandomQuestion />;
+    return <RandomQuestion handleClick={this.handleClickNextQuestion} />;
   }
 
 
@@ -89,8 +96,6 @@ export class Question extends React.Component{
 
           <div id="{this.state.question.id}" className="col s12 question-container">{this.state.question.component}</div>
         </div>
-
-        <ButtonComp onClick={this.handleClickNextQuestion} buttonText='Next'></ButtonComp>
       </div>
     )
   }

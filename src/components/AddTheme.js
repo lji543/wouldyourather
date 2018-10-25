@@ -14,6 +14,18 @@ export class AddTheme extends React.Component{
     this.handleAddTheme = this.handleAddTheme.bind(this);
     this.handleAddThemeCategory = this.handleAddThemeCategory.bind(this);
     this.handleAddThemeGroup = this.handleAddThemeGroup.bind(this);
+
+    // TODO: state should really be set here? but we also need props to be defined before sending them down
+
+      this.state = {
+        theme: this.themeType[0],
+        newTheme: {
+          theme: '',
+          category: '',
+          group: ''
+        },
+        userMessage: ''
+      }
   }
 
   handleAddTheme = e => {
@@ -50,16 +62,6 @@ export class AddTheme extends React.Component{
       dataArr: 'topics',
       component:<AddTopic handleAddTheme={this.handleAddTheme} handleAddThemeCategory={this.handleAddThemeCategory} handleAddThemeGroup={this.handleAddThemeGroup} />}
   ];
-
-  state = {
-    theme: this.themeType[0],
-    newTheme: {
-      theme: '',
-      category: '',
-      group: ''
-    },
-    userMessage: ''
-  }
 
   handleClick = e => {
     e.preventDefault();

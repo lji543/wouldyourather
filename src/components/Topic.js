@@ -1,8 +1,7 @@
 import React from 'react';
 
 import data from '../data.json';
-import ButtonComp from './ButtonComp';
-import Browser from '@hickory/browser';
+import Display from './Display';
 
 export class Topic extends React.Component{
 
@@ -11,8 +10,7 @@ export class Topic extends React.Component{
 
   topics = data.topics;
   int = Math.floor(Math.random() * Math.floor(this.topics.length));
-  path = Browser().location.pathname;
-  topic = this.formatTopic(this.topics[this.int].t);
+  topic = this.formatTopic(this.topics[this.int].theme);
 
   state = {
     topic: this.topic
@@ -20,21 +18,16 @@ export class Topic extends React.Component{
 
   handleClick = () => {
     this.int = Math.floor(Math.random() * Math.floor(this.topics.length));
-    this.topic = this.formatTopic(this.topics[this.int].t);
+    this.topic = this.formatTopic(this.topics[this.int].theme);
 
     this.setState({topic: this.topic})
   }
 
   render() {
-    let button;
-    if (this.path === '/topics') {
-      button = <ButtonComp onClick={this.handleClick} buttonText='Next'></ButtonComp>;
-    }
 
     return (
       <div>
-        <div>{this.state.topic}</div>
-        {button}
+        <Display heading="Topic..." theme={this.state.topic} handleClick={this.handleClick}/>
       </div>
     );
   }

@@ -1,26 +1,22 @@
 import React from 'react';
 
-import data from '../data.json'
+import data from '../data.json';
+import Display from './Display';
 
 export class BankQuestion extends React.Component{
+
+  // constructor (props) {
+  //   super(props)
+  // }
 
   questionBank = data.questionBank;
 
   question: '';
 
-  constructor (props) {
-    super(props)
-    this.state = {question:this.question};
-  }
-
-  newQuestion = () =>
-    this.setState({question:this.question});
-
   getRandomQuestion = () => {
-    this.question = this.questionBank[Math.floor(Math.random()*this.questionBank.length)].q;
+    this.question = this.questionBank[Math.floor(Math.random()*this.questionBank.length)].theme;
     this.question = this.capitalize(this.question) + '?';
   }
-
 
   capitalize = string =>
     string.charAt(0).toUpperCase() + string.slice(1);
@@ -31,8 +27,7 @@ export class BankQuestion extends React.Component{
     return (
 
       <div>
-        <div>Would you Rather...</div>
-        <div>{this.question}</div>
+        <Display heading="Would you Rather..." theme={this.question} handleClick={this.props.handleClick}/>
       </div>
 
     );
