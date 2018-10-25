@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 
-import AddTheme from './components/AddTheme';
 import Navigation from './components/Navigation';
 
 import './scss/App.scss';

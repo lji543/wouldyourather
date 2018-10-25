@@ -1,7 +1,7 @@
 import React from 'react';
 
 export class AddQuestion extends React.Component{
-  // TODO very similar to add question - do they need to be separate?
+  // TODO very similar to add topic - do they need to be separate?
 
   // constructor(props) {
   //   super(props);

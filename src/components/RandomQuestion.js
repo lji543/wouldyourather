@@ -1,7 +1,7 @@
 import React from 'react';
 
 import data from '../data.json';
-import Display from './Display';
+import DisplayTheme from './DisplayTheme';
 
 export class RandomQuestion extends React.Component{
 
@@ -47,7 +47,7 @@ export class RandomQuestion extends React.Component{
     return (
 
       <div>
-        <Display heading="Would you Rather..." theme={this.question} handleClick={this.props.handleClick}/>
+        <DisplayTheme heading="Would you Rather..." theme={this.question} handleClick={this.props.handleClick}/>
       </div>
 
     );

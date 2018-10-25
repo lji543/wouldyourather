@@ -3,28 +3,24 @@ import React from 'react';
 import RandomQuestion from './RandomQuestion';
 import BankQuestion from './BankQuestion';
 import Topic from './Topic';
-import ButtonComp from './ButtonComp';
-import Browser from '@hickory/browser';
 
 export class Scramble extends React.Component{
 
   int = Math.floor(Math.random() * Math.floor(3));
-  path = Browser().location.pathname;
+
+  handleClick = () => {
+    this.int = Math.floor(Math.random() * Math.floor(3));
+    this.setState({displayedTheme: this.randomArr[this.int]})
+  }
 
   randomArr = [
-    <RandomQuestion />,
-    <BankQuestion />,
-    <Topic />
+    <RandomQuestion handleClick={this.handleClick} />,
+    <BankQuestion handleClick={this.handleClick} />,
+    <Topic scramble="true" handleClick={this.handleClick} />
   ];
 
   state = {
     displayedTheme: this.randomArr[this.int]
-  }
-
-  handleClick = () => {
-    this.int = Math.floor(Math.random() * Math.floor(3));
-
-    this.setState({displayedTheme: this.randomArr[this.int]});
   }
 
   render() {
@@ -32,7 +28,6 @@ export class Scramble extends React.Component{
     return (
       <div>
         <div>{this.state.displayedTheme}</div>
-        <ButtonComp onClick={this.handleClick} buttonText='Next'></ButtonComp>
       </div>
     );
   }

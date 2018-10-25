@@ -2,8 +2,6 @@ import React from 'react';
 
 import RandomQuestion from './RandomQuestion';
 import BankQuestion from './BankQuestion';
-import ButtonComp from './ButtonComp';
-
 
 export class Question extends React.Component{
 
@@ -68,7 +66,7 @@ export class Question extends React.Component{
 
   pickARandomQuestion = () => {
     this.int = Math.floor(Math.random() * Math.floor(2));
-    
+
     if (this.int === 0) {
       return <BankQuestion handleClick={this.handleClickNextQuestion} />;
     }

@@ -1,7 +1,7 @@
 import React from 'react';
 
 import data from '../data.json';
-import Display from './Display';
+import DisplayTheme from './DisplayTheme';
 
 export class Topic extends React.Component{
 
@@ -17,6 +17,13 @@ export class Topic extends React.Component{
   }
 
   handleClick = () => {
+    if (this.props.scramble) {
+      return this.props.handleClick();
+    }
+    return this.handleNextTopic();
+  }
+
+  handleNextTopic = () => {
     this.int = Math.floor(Math.random() * Math.floor(this.topics.length));
     this.topic = this.formatTopic(this.topics[this.int].theme);
 
@@ -27,7 +34,7 @@ export class Topic extends React.Component{
 
     return (
       <div>
-        <Display heading="Topic..." theme={this.state.topic} handleClick={this.handleClick}/>
+        <DisplayTheme heading="Topic..." theme={this.state.topic} handleClick={this.handleClick}/>
       </div>
     );
   }
