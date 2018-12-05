@@ -1,4 +1,5 @@
 import ActiveTheme from './components/ActiveTheme';
+import AddTheme from './components/AddTheme/AddTheme';
 // import AddQuestion from './components/AddQuestion';
 // import AddTopic from './components/AddTopic';
 // import Question from './components/Question';
@@ -55,26 +56,24 @@ const routes = [
       };
     },
   },
-  // {
-  //   name: "Question",
-  //   path: "question",
-  //   response: () => {
-  //     return {
-  //       body: Question
-  //     };
-  //   },
-  //   children: [
-  //     {
-  //       name: "Method",
-  //       path: ":method",
-  //       response: () => {
-  //         return {
-  //           body: Method
-  //         };
-  //       }
-  //     }
-  //   ]
-  // },
+  {
+    name: "Everything",
+    path: "everything",
+    response: () => {
+      return {
+        body: ActiveTheme
+      };
+    },
+  },
+  {
+    name: "Add Your Own",
+    path: "add",
+    response: () => {
+      return {
+        body: AddTheme
+      };
+    },
+  },
   {
     name: "NotFound",
     path: "(.*)",

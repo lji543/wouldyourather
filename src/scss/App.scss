@@ -12,3 +12,54 @@
 .question-container {
   margin-top: 24px;
 }
+
+.theme-container {
+  text-align: center;
+  margin: 24px auto;
+}
+
+.add-theme__input {
+  max-width: 50%;
+  margin: 4px auto;
+}
+
+.width--100 {
+  width: 100%;
+}
+
+.secondary-row {
+  margin: 48px 0 24px 0;
+  padding: 12px 0;
+}
+
+.display-theme__header {
+  margin: 24px 0;
+}
+
+.display-theme__theme {
+  font-size: 20px;
+  margin: 24px 0 36px 0;
+  min-height: 64px;
+}
+
+#nav-mobile {
+  // display: none;
+
+  // @media only screen
+  //   and (min-device-width: 375px)
+  //   and (max-device-width: 667px)
+  //   and (-webkit-min-device-pixel-ratio: 2) {
+  //     display: block;
+  // }
+}
+
+a[data-activates=nav-mobile] {
+  // display: none;
+
+  @media only screen
+    and (min-device-width: 375px)
+    and (max-device-width: 667px)
+    and (-webkit-min-device-pixel-ratio: 2) {
+      // display: block;
+  }
+}

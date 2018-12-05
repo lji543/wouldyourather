@@ -1,12 +1,16 @@
 import React from 'react';
 
-import data from '../data.json'
+import data from '../../data.json';
+import DisplayTheme from '../Utility/DisplayTheme';
 
 export class RandomQuestion extends React.Component{
 
-  buttonText = 'Next';
-
   questionBank = data.questionBank;
+
+  // constructor (props) {
+  //   super(props)
+  //   this.state = {question:this.question};
+  // }
 
   words = {
     nouns: data.nouns,
@@ -14,14 +18,6 @@ export class RandomQuestion extends React.Component{
   };
 
   question: '';
-
-  constructor (props) {
-    super(props)
-    this.state = {question:this.question};
-  }
-  
-  newQuestion = () =>
-    this.setState({question:this.question});
 
   randomWord = arr =>
     arr[Math.floor(Math.random()*arr.length)];
@@ -46,14 +42,12 @@ export class RandomQuestion extends React.Component{
   }
 
   render() {
-    // {{this.question}}
-    // <h2>Would you rather?</h2>
     this.constructVerbPhrase();
 
     return (
 
       <div>
-        {this.question}
+        <DisplayTheme heading="Would you Rather..." theme={this.question} handleClick={this.props.handleClick}/>
       </div>
 
     );

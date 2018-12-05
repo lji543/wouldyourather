@@ -1,9 +1,10 @@
 import React from 'react';
 
-import Question from './Question';
+import Question from './Question/Question';
 import Topic from './Topic';
+import Scramble from './Scramble';
 
-import Browser from '@hickory/browser'
+import Browser from '@hickory/browser';
 
 export class ActiveTheme extends React.Component{
   // TODO add propTypes to components
@@ -13,10 +14,12 @@ export class ActiveTheme extends React.Component{
   render() {
 
     let game;
-    let path = Browser().location.pathname
+    let path = Browser().location.pathname;
 
     if (path === '/topics') {
       game = <Topic />;
+    } else if (path === '/everything') {
+      game = <Scramble />;
     } else {
       game = <Question />
     }
