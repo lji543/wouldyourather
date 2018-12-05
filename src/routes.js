@@ -1,5 +1,5 @@
 import ActiveTheme from './components/ActiveTheme';
-import AddTheme from './components/AddTheme';
+import AddTheme from './components/AddTheme/AddTheme';
 // import AddQuestion from './components/AddQuestion';
 // import AddTopic from './components/AddTopic';
 // import Question from './components/Question';

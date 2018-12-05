@@ -1,9 +1,9 @@
 import React from 'react';
-import fire from '../fire';
+import fire from '../../fire';
 
 import AddQuestion from './AddQuestion';
 import AddTopic from './AddTopic';
-import ButtonComp from './ButtonComp';
+import ButtonComp from '../Utility/ButtonComp';
 
 export class AddTheme extends React.Component{
   // TODO AddTheme and AddTopic are basically the same (consolidate)

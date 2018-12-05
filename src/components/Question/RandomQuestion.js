@@ -1,7 +1,7 @@
 import React from 'react';
 
-import data from '../data.json';
-import DisplayTheme from './DisplayTheme';
+import data from '../../data.json';
+import DisplayTheme from '../Utility/DisplayTheme';
 
 export class RandomQuestion extends React.Component{
 

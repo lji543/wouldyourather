@@ -41,3 +41,25 @@
   margin: 24px 0 36px 0;
   min-height: 64px;
 }
+
+#nav-mobile {
+  // display: none;
+
+  // @media only screen
+  //   and (min-device-width: 375px)
+  //   and (max-device-width: 667px)
+  //   and (-webkit-min-device-pixel-ratio: 2) {
+  //     display: block;
+  // }
+}
+
+a[data-activates=nav-mobile] {
+  // display: none;
+
+  @media only screen
+    and (min-device-width: 375px)
+    and (max-device-width: 667px)
+    and (-webkit-min-device-pixel-ratio: 2) {
+      // display: block;
+  }
+}

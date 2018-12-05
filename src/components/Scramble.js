@@ -1,7 +1,7 @@
 import React from 'react';
 
-import RandomQuestion from './RandomQuestion';
-import BankQuestion from './BankQuestion';
+import RandomQuestion from './Question/RandomQuestion';
+import BankQuestion from './Question/BankQuestion';
 import Topic from './Topic';
 
 export class Scramble extends React.Component{
