@@ -1,26 +1,23 @@
 {
   "verbs": [
-    "kill",
-    "jump",
-    "hit",
-    "fuck",
-    "kiss"
+    "kiss",
+    "yell at",
+    "trick",
+    "ignore",
+    "love",
+    "eat"
   ],
   "nouns": [
     "your mom",
     "your best friend's mom",
     "your cousin",
     "a baby",
-    "a dog"
+    "a dog",
+    "a tree"
   ],
   "topics": [
     {
       "theme": "What did you get into trouble for the most when you were young",
-      "category": [],
-      "group": []
-    },
-    {
-      "theme": "Every time you have sex it takes one day off your life. How much do you have",
       "category": [],
       "group": []
     },
@@ -72,11 +69,6 @@
     {
       "theme": "What was your strangest date ever",
       "category": [],
-      "group": []
-    },
-    {
-      "theme": "Does size matter",
-      "category": ["r"],
       "group": []
     },
     {
@@ -540,41 +532,6 @@
       "group": []
     },
     {
-      "theme": "have you ever showered with someone of the opposite sex",
-      "category": ["r"],
-      "group": []
-    },
-    {
-      "theme": "have you ever had a pregnancy scare",
-      "category": [""],
-      "group": []
-    },
-    {
-      "theme": "have you ever worn special clothes to cover up a hickey",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever had sex with a person whose name you didn’t know",
-      "category": ["r"],
-      "group": []
-    },
-    {
-      "theme": "when was the last time you went commando",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "when was the last time you had sex in the back seat of a car, or the back of a truck",
-      "category": ["r"],
-      "group": []
-    },
-    {
-      "theme": "what was your last sex dream about",
-      "category": ["r"],
-      "group": []
-    },
-    {
       "theme": "when was the last time you faked being sick",
       "category": ["pg"],
       "group": []
@@ -600,11 +557,6 @@
       "group": []
     },
     {
-      "theme": "What body part are you most attracted to",
-      "category": ["pg"],
-      "group": []
-    },
-    {
       "theme": "what was your worst breakup",
       "category": ["pg"],
       "group": []
@@ -615,18 +567,8 @@
       "group": []
     },
     {
-      "theme": "Have you ever walked in on someone having sex",
-      "category": ["pg"],
-      "group": []
-    },
-    {
       "theme": "Who’s your most annoying relative",
       "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "what's your favorite raunchy movie/porn",
-      "category": ["r"],
       "group": []
     },
     {
@@ -670,11 +612,6 @@
       "group": []
     },
     {
-      "theme": "What’s your sexiest outfit",
-      "category": ["pg"],
-      "group": []
-    },
-    {
       "theme": "what's the worst part of getting older",
       "category": ["pg"],
       "group": []
@@ -686,11 +623,6 @@
     },
     {
       "theme": "Where’s the worst place you’ve had to relieve yourself",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "How far into pregnancy should abortion be allowed",
       "category": ["pg"],
       "group": []
     },
@@ -715,17 +647,7 @@
       "group": []
     },
     {
-      "theme": "Would it be worst to discover your teen had thrown a kegger in your house, slept with her boyfriend in your bed, or wrecked your car",
-      "category": ["pg"],
-      "group": []
-    },
-    {
       "theme": "Have you witnessed a crime",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "What’s your favorite dirty word and why",
       "category": ["pg"],
       "group": []
     },
@@ -760,17 +682,7 @@
       "group": []
     },
     {
-      "theme": "What is your wildest sexual fantasy",
-      "category": ["r"],
-      "group": []
-    },
-    {
       "theme": "What is the wildest thing you have ever done in your life",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "Have you ever kissed someone of the same gender",
       "category": ["pg"],
       "group": []
     },
@@ -790,32 +702,7 @@
       "group": []
     },
     {
-      "theme": "Have you followed someone into a restroom with the intention of kissing him/her",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "Have you ever done a striptease for your special someone",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "What is the silliest thing you have said during sex",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "What is the sexiest pick-up line you have ever heard/used",
-      "category": ["pg"],
-      "group": []
-    },
-    {
       "theme": "What's the worst thing about being a guy/a girl",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "Have you ever lied to your partner about being with others (before you were with him/her)",
       "category": ["pg"],
       "group": []
     },
@@ -841,11 +728,6 @@
     },
     {
       "theme": "What’s the worst thing you’ve ever done",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "If you had to pick a favorite sex position, what would it be",
       "category": ["pg"],
       "group": []
     },
@@ -935,11 +817,6 @@
       "group": []
     },
     {
-      "theme": "have you ever called someone the wrong name during sex",
-      "category": ["pg"],
-      "group": []
-    },
-    {
       "theme": "when was the last time you made out with a stranger",
       "category": ["pg"],
       "group": []
@@ -950,137 +827,12 @@
       "group": []
     },
     {
-      "theme": "have you ever farted in public, smelt it, and enjoyed it",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever lied about my 'number' to avoid judgement",
-      "category": ["sex"],
-      "group": []
-    },
-    {
-      "theme": "what's your 'number'",
-      "category": ["sex"],
-      "group": []
-    },
-    {
-      "theme": "have you ever sent a dirty text to the wrong person",
-      "category": ["sex"],
-      "group": []
-    },
-    {
-      "theme": "have you ever peed yourself in public as an adult",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you (or a partner) ever been pregnant",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever had an STD scare",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever had sex with a friend’s parent, or parents",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever used a common household item as a sex toy and put it back where it belongs",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever required medical attention due to a foreign object stuck inside your body",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever blown a line of cocaine off of someone’s body",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever had to do the walk of shame",
-      "category": ["pg"],
-      "group": []
-    },
-    {
       "theme": "have you ever deleted a post on social media because you had a low percentage of “likes”",
       "category": ["pg"],
       "group": []
     },
     {
-      "theme": "have you ever woken up in a strange place without remembering how you got there",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever received or initiated a booty call",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever taken nude pictures of a friend",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever puked on someone while hooking up with them",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever committed a hit-and-run",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever kissed a cousin",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever grabbed a random woman’s ass without permission",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever grabbed a man’s penis without permission",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever farted in someone’s face",
-      "category": ["pg"],
-      "group": []
-    },
-    {
       "theme": "have you ever punched someone",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever licked someone’s butt",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever kissed a friend’s significant other",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever peed in a bed",
-      "category": ["pg"],
-      "group": []
-    },
-    {
-      "theme": "have you ever masturbated to porn",
       "category": ["pg"],
       "group": []
     }
@@ -1117,31 +869,6 @@
       "group": ["friends"]
     },
     {
-      "theme": "have sex with a person who breathes bad or with someone who hasn’t bathed for a long time",
-      "category": ["r", "sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "wear revealing clothes forever or would always wear fully covered clothes while making out",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "kiss your ex's ass or your pet’s ass",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "lose your virginity with a total stranger or with someone you hate the most",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "eat your already dead friend or kill your dog and eat it when you are marooned on a lonely island",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "end death due to car accidents or end terrorism",
       "category": ["pg"],
       "group": ["friends"]
@@ -1167,98 +894,8 @@
       "group": ["friends"]
     },
     {
-      "theme": "pay for having sex, or get paid for it",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have sex with your mom/dad's best friend, or with your best friend",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "spit or swallow",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "be caught cheating or catch your spouse cheating",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "let your significant other sleep with your best friend or sleep with your significant other’s best friend",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "date someone with a great personality who's bad in bed, or someone that's amazing in bed but with a boring personality",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
       "theme": "have an average SO with a great personality or a hot SO with a boring personality",
       "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "achieve orgasm with your own or make out with someone but without any excitement",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have your mom hear you while you are having an erotic orgasm or let your mom walk in while you are making out",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "burp uncontrollably or fart uncontrollably while having sex",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "sweat profusely and smell awful while tempting your partner or eat while watching your partner making out with your ex",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "walk in your partner having an orgasm with the ex or walk in your bestie doing so with your partner",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have a boring sex life or have an exciting sex and romantic life, but everything is public",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "be in a relationship who remains totally silent during sex or moans all the time",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "talk dirty or sext",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have fetishes for sweat or for armpits",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "announce your fetishes/fantasies on the first date or have them secret forever",
-      "category": ["r","sex"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "be an amazingly hot person or a genius, but super ugly",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "be one of the richest people in the world and never have sex, or be one of the poorest, but have a great sex life",
-      "category": ["r","sex"],
       "group": ["friends"]
     },
     {
@@ -1292,67 +929,12 @@
       "group": ["friends"]
     },
     {
-      "theme": "give control or take control ",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have your partner kiss your chest or your neck",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "go shirtless or pantless for the rest of your life",
       "category": ["pg"],
       "group": ["friends"]
     },
     {
-      "theme": "watch your partner shower or masturbate",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have morning sex or night sex for the rest of your life",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "be on top or on the bottom",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "end a first date with a passionate kiss, or would you like to end a first date with sex",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "be in a relationship with a totally submissive partner or a totally dominant partner",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have multiple sex partners or one sex buddy, if you were single",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have sex with just one person watching, or would you rather have sex with 50 people watching",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "get explosive diarrhea every time you meet your boss or every time you meet your SO’s parents",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have a head the size of a tennis ball or the size of a watermelonhave no penis or five penises",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have no penis or five penises",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -1377,26 +959,6 @@
       "group": ["friends"]
     },
     {
-      "theme": "crap your pants in public once a year for the rest of your life or crap yourself in private every day for the rest of your life",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "be a virgin forever or have sex with your brother/sister one time",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have knives for fingers or penises for fingers",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "give or receive a lap dance",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "have uncontrollable gas at work for the rest of your life or uncontrollable gas on every first date for the rest of your life",
       "category": ["pg"],
       "group": ["friends"]
@@ -1408,11 +970,6 @@
     },
     {
       "theme": "everyone thinks your life sucks but it’s actually awesome or everyone thinks your life is great but it’s actually shitty",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -1437,17 +994,7 @@
       "group": ["friends"]
     },
     {
-      "theme": "have unlimited money, power, and respect or unlimited sex",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "have everything you’ve ever wanted but you die in one year or live your life as it is now",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have horrible acne but it covers all your sexy areas, or moderate acne that’s only on your face",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -1467,22 +1014,7 @@
       "group": ["friends"]
     },
     {
-      "theme": "not receive any money from an anonymous source or receive $10 million dollars worth of crack on your door step",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "smell terrible (but you can’t smell it) or your partner smell terrible and you have to smell it",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "be an average, not famous professional athlete on your current salary or a wealthy, world renowned professional in a field you don’t care about (mathematician, classical musician, whatever)",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have your body found on a pile of sex toys or a pile of drugs",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -1502,37 +1034,7 @@
       "group": ["friends"]
     },
     {
-      "theme": "get wasted and kiss your ex or fuck your best friend",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have a drunken hookup in a bathroom stall or in the back of a car",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "go a month without drinking or a month without masturbating",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "be the designated driver and stay sober for a night or walk ten miles home with your whole group of friends",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "get wasted after one beer or need ten beers to even feel a buzz",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "wake up hungover and find out you texted your ex or find out you spent your entire paycheck at the bar",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "do the walk of shame or kick a complete stranger out of your house in the morning",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -1542,142 +1044,7 @@
       "group": ["friends"]
     },
     {
-      "theme": "drink from a funnel or do a keg stand",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "get drunk and reveal all of your secrets or get drunk and reveal all of your best friend’s secrets",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have sex with someone who never showers or someone who never brushes their teeth",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "walk around the supermarket in your lingerie or walk around the mall with a strap-on",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "orgasm loudly whenever you saw your crush or be incapable of orgasming ever again",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have a threesome with two kind of ugly people or sex with one super person",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "watch your mom or your dad in a porno",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "swallow cum that tastes like piss or have your partner actually piss on you",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "date someone with the perfect body or with the perfect moves in the bedroom",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have weak, little orgasms every time you had sex or have a super strong orgasm every once in a while",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "get kissed on the lips and only the lips or on every part of your body, except for your lips",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have sex on a bed filled with stains or in a smelly bathroom stall",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have your parents catch you having sex or catch your parents having sex",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "date someone who takes five seconds to cum or who takes at least five hours to cum",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "fuck your best friend’s father or your father’s best friend",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "be horny 24/7 or for only one day per year",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "sleep with the first person you see at the bar or the first person who hits on you at the bar",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "fart while getting eaten out or vomit while making out",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "bite your boyfriend on the dick during oral or knee him in the balls during sex",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "make a sex tape for only your grandparents to see or put your nudes on Facebook for everyone else to see (but your grandparents never see it)",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "date someone who refuses to cuddle or who refuses to go down on you",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "get caught having sex or kissing a blowup doll",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have sex in the same position with the same person for the rest of your life or in different positions with a different person every single time",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "get a huge tattoo of your partner’s name across your chest or a tiny tattoo of their face on your arm",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have an intense make-out session with your teddy bear or with a poster",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "be tied to a bed and forgotten or marked with a hickey that your boss will see",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "sprain your ankle during sex or break your partner’s penis",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "bump your head while having shower sex or fall off the bed while having morning sex",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -1777,156 +1144,6 @@
       "group": ["friends"]
     },
     {
-      "theme": "fuck someone with nipple piercings or clit piercings",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "date a girl with butt implants or fake boobs",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "receive only oral for the rest of your life or only give anal for the rest of your life",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "lose the ability to have sex with other people or lose the ability to masturbate",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "always lose your erection in the middle of sex or start crying at the end of sex",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "send the wrong person an explicit sext or send them a dick pic",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "foreplay for a full hour every time you had sex or never foreplay again",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "make an unattractive face when you orgasm or make weird noises",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "get a call from someone you slept with saying she has an STD or that she’s pregnant",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "fuck someone with a foot fetish or a diaper fetish",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have a threesome with a set of twins or two celebrities",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have a small penis and stronger orgasms or a big penis and less intense orgasms",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have rough sex that always caused you injuries or boring, bland sex that you always fell asleep during",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "send your nudes to everyone in your contacts or upload your sex tape to the internet",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "date someone who refused to give oral or someone who refused to get on top during sex",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "go three years without sex or only sleep with people you hated",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have sex without kissing your partner or without using your hands at all",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "sleep with a virgin or someone with over 50 sex partners",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "date a furry or a dominatrix",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have sex with one or your parent’s friends or one of your friend’s exes",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "sleep with a girl who refused to let you touch her boobs or her butt",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "go down on someone who tastes bad or someone who smells bad",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "stop getting handjobs or stop getting blowjobs",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have sex with someone who was so loud that they woke the neighbors or someone who was strangely silent",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "let your best friend scroll through your browser history or let them watch you have sex",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "wait until marriage to have sex or never find your soulmate",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "see a girl naked or see her in lingerie",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "make love on rose petals or fuck in a bar bathroom",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have sex in the dark or with extremely bright flourescent lights",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have spectacular sex once a week or half-ass sex five times a week",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "be with someone who occasionally tells big lies, or someone who is brutally honest all of the time",
       "category": ["pg"],
       "group": ["friends"]
@@ -1958,11 +1175,6 @@
     },
     {
       "theme": "change your appearance, or your personality (if you could adapt it in every way you want)",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have sex in a public place and have 200 strangers see, or have sex in your bedroom in front of your sibling",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2017,11 +1229,6 @@
       "group": ["friends"]
     },
     {
-      "theme": "have sex with a family member or with a dead body",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "be stuck on an island with a killer or stuck in the ocean with hungry sharks",
       "category": ["pg"],
       "group": ["friends"]
@@ -2032,127 +1239,12 @@
       "group": ["friends"]
     },
     {
-      "theme": "get turned on by blood or by insects",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "eat a dead rat or live spiders",
       "category": ["pg"],
       "group": ["friends"]
     },
     {
-      "theme": "kill a baby with your bare hands, but everyone later thinks your tried to save him/her? OR Let that baby live, but everyone thinks you tried to kill it",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have to watch your parents have sex every night for the rest of your life, or join in once",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "suck on a used tampon that you found on the street, or a used condom",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "Your mother and your girlfriend change bodies, to change them back you have to fuck one of them. What do you do",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "get a good handjob from your grandmother, or a bad handjob from your grandmother",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "Fuck a pig live on national television or be responsible for the death of someone",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "eat out your grandmother? Or a homeless person’s butthole",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "Have every first bite of pizza you have be really hot, burning your tongue, or never having pizza again",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have pubes for teeth, or teeth instead of pubes",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "be in the middle of a human centipede with your dog and your brother or your parents",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "murder your mom or have sex with her so she can live",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "kill an entire kindergarten class with a brick, or take it in the ass from an entire NFL team (including the kicker)",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "fuck a 10/10 while your parents watch or a 1/10 in private",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have a piece of shit stuck to your head full time but no smell or a smell of shit off you all the time but no shit on your head",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have your dad walk in on you fucking your dog or have your dog walk in on you fucking your dad",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have someone give your dick a paper cut perpendicular to the hole, or take a fastball to the crotch",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "Watch a porno your parents made and masturbate to it, or…… let your parents watch you watch porn whilst you masturbate",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "fuck the 20 most beautiful and famous women but they tell everyone were useless/couldn’t get it up or whatever….Or fuck none of them but there is rumors that you did and you were a stallion",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "take a shot of your dad's jizz or a shot of your mom's period",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "fuck a goat but everyone thinks you didn't, or you don't fuck a goat but everyone thinks you did",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "throw a grenade into a nursery or suck trumps dick on live tv",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "rape your own mother/sister in order to save their life, without them knowing why you've done it, or let them die",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "suck off your dad to save your mom, or eat out your mom to save your dad. Both survive if you complete one, but if not then one dies",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2167,21 +1259,6 @@
       "group": ["friends"]
     },
     {
-      "theme": "have a partner that wanted sex 10 times as often as you or 1/10th as often",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "watch your partner masturbate or have your partner watch you",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "let a whole bottle of hot sauce drip into your asshole, or let a seven inch nail go inside of your uterus/penis",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "Cheetos cheese on your fingers for the rest of your life or have your breath smell like garlic",
       "category": ["pg"],
       "group": ["friends"]
@@ -2192,32 +1269,12 @@
       "group": ["friends"]
     },
     {
-      "theme": "get peed on your face or shit on your chest",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "live in the same city the rest of your life, or move to a new city every year for the rest of your life",
       "category": ["pg"],
       "group": ["friends"]
     },
     {
-      "theme": "poop your pants once and everyone knows about it or poop your pants every day for a week and no one knows about it",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "accidentally marry someone who is gay, or accidentally marry someone who is trans",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "be blind or deaf",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "be mute or have Tourette’s and scream 'fuck' every minute",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2228,11 +1285,6 @@
     },
     {
       "theme": "give up bathing for a month or internet for a month",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "accidentally kill a child or accidentally kill three adults",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2252,11 +1304,6 @@
       "group": ["friends"]
     },
     {
-      "theme": "have the best sex ever once a month but have a 10% chance of getting an STD each time or just have poor sex every month and have no chance of getting an STD",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "never need to pee again or speak all languages in the world",
       "category": ["pg"],
       "group": ["friends"]
@@ -2272,22 +1319,7 @@
       "group": ["friends"]
     },
     {
-      "theme": "have to stare at a picture of your mom for 10 seconds everytime before you watch a porn video? Or whenever you unlock your phone, the last porn video you watched plays for 20 seconds before you could do anything",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "not be able to tell the difference between a muffin and a baby, or change your gender every time you sneeze",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have a 3.3 inch penis when erected or have massive, atomic bomb diarrhea every time you poop",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "eat a girl out while she takes a dump, or kiss a gay man on the lips",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2297,17 +1329,7 @@
       "group": ["friends"]
     },
     {
-      "theme": "eat sheeps testicles for a year in a row or cut your toes off with a blunt knife",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "control fire or water",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "expel semen every time you sneeze, or shit yourself every time you have a hick-up",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2327,42 +1349,12 @@
       "group": ["friends"]
     },
     {
-      "theme": "have sex with a frog doggystyle, or have sex with a dog froggystyle",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "drink a dreadlock smoothie or blow a frozen poop saxophone",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have a child made of pee or a pee made of a child",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "have $10,000 transfered to your bank account daily, or eat both of your hands",
       "category": ["pg"],
       "group": ["friends"]
     },
     {
-      "theme": "poop every time you orgasm, or have a 5% chance that you will say 'nigger' in every conversation that you have",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "fuck the top half of Emma Watson with the bottom part of hulk hogan, or the top half of hulk hogan with the bottom half of Emma Watson",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "there be a ding sound every time you wink or have a cartoonish gun sound go off when you make a finger gun",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "automatically say 'Ahoy, matey!' when you get an erection or 'Shiver me timbers!' when you cum",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2407,57 +1399,12 @@
       "group": ["friends"]
     },
     {
-      "theme": "suck one dick for $50,000, or get $1000 for every dick you suck",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "not ever be able to leave your house without carying a DVD copy of 'paul blart mall cop' or you permanently lose your sense of smell",
       "category": ["pg"],
       "group": ["friends"]
     },
     {
-      "theme": "get a throbbing erection every time you’re near a child or have to scream the N-word every time you hear the word Obama",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have to sexually bite your lip at the end of every conversation you have regardless of the scenario, or would you rather have to moan after every bite of food",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "have $500,000,000,000,000 or 10 wishes but you cant wish for money",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "date the most beautiful person of the opposite sex or become the most beautiful person of your sex",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "get $5 every time you took a poop or never have to poop again for the rest of your life",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "be able to summon the effect of any drug in existence with zero negative side effects at the touch of a button or have a sexual partner who can shape shift into any person you want",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "be romantically and sexually limited for the rest of your life to a single person who is the exact opposite of everything you desire/prefer in a partner (must live with them and have average amount of intercourse), or eat 31 slices of rye bread every morning (must be completed by 9am)",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "become retarded for 15 minutes every time you think of the word 'sensitivity' or fart loudly every time you see an analog clock",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "poop out one ninja star or 10,000 gallons of mayonnaise",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2472,11 +1419,6 @@
       "group": ["friends"]
     },
     {
-      "theme": "have to say 'oh no not again' whenever you go to the bathroom, or have to wiggle your eyebrows suggestively when you speak to a member of the opposite sex",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "die at age 40 or age 4000",
       "category": ["pg"],
       "group": ["friends"]
@@ -2487,17 +1429,7 @@
       "group": ["friends"]
     },
     {
-      "theme": "have amazing sex once a month with a super hot person of your chosen sexual preference or have average sex 15 times a month with average people of your chosen sexual preference",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "be able see 30 minutes into the future or be able to change what happened 5 minutes in the past",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "live in a house with an ass eating ghost (eats ass once a day) or a ghost that only comes to haunt you when you’re about to have sex",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2507,27 +1439,7 @@
       "group": ["friends"]
     },
     {
-      "theme": "have sex with an extremely attractive person who is outwardly only slightly into it, or an ok looking person who is really into it and sexually generous",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "everyone believes everything you say 100% of the time or everyone believes 100% of the jokes you tell are absolutely hilarious",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "wake up every day in a pile of 100lbs of wet shrimp, or every time you fart a single shrimp comes out",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "your life be like a porno where you're constantly having sex propositions in weird scenarios, or have your life be like an action movie where crazy, intense situations happen around you",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "bleed cum or cum blood",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2537,42 +1449,12 @@
       "group": ["friends"]
     },
     {
-      "theme": "get 10$ added to your bank account every time you masturbate, or have the ability to make people orgasm by pointing a finger gun at them",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "every single bug that you've ever killed come back, all at once, for revenge, or a report of every thing you've ever masturbated to delivered to your friends and family",
       "category": ["pg"],
       "group": ["friends"]
     },
     {
-      "theme": "have to sing Sexyback (Justin Timberlake) whenever you get an erection, or Africa (Toto) every time you see a black person",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "only be able to refer to everyone else as 'sugar tits' or yourself as 'the commando.'",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have to call everyone 'Mommy' or have everyone call you 'Mr. Cocktopus'",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "always feel like there is a small rock in your shoe, or always have chip crumbs in your bed",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "only be able to communicate by strumming your dick on people in Morse code or a dark-clothed guy always follows you and yells everything you think",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have taste buds on your anus or have any toilet paper that you use turn into sandpaper",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2587,42 +1469,12 @@
       "group": ["friends"]
     },
     {
-      "theme": "have sex with the fresh corpse of an incredibly beautiful person, or with the most disgusting human being alive",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "play every instrument beautifully, or speak every language fluently",
       "category": ["pg"],
       "group": ["friends"]
     },
     {
       "theme": "spend 10 years in jail or 15 years in a coma",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have one enormous testicle that you have to carry around in a wheelbarrow or one hundred normal size testicles",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have a penis the size and shape of a nipple, or nipples the size and shape of a penis",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "all your fingers are dicks or your dick is a finger.",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have small breasts with huge nipples, or large breasts with no nipples",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "punch a baby once, or get punched once a day for the rest of your life by a guy named Chet",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2652,37 +1504,7 @@
       "group": ["friends"]
     },
     {
-      "theme": "have one massive dick, so big that it causes wonderment, but also safety concerns for your partner, or two regular-sized dicks",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have an orgasm every 10 seconds or once every 10 years",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have a vagina on your forehead or a line of penises down your back (like a stegosaurs)",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "watch porn with your parents, or porn starring your parents",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "be able to eat whatever you want but be forbidden to have sex, or be free to have sex but you can only eat grass from fields like a cow for the rest of your life",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "have to snort all of your nutrition through your nose or live in a house made of human bones",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "Use a dildo/sex toy that has been used by a friend, and cleaned by you to your statisfaction, or use a fork that has been used by tens of thousands of strangers and questionably cleaned by an underpaid teenager in the back of a restaurant",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2692,32 +1514,7 @@
       "group": ["friends"]
     },
     {
-      "theme": "have sex with your grandmother and no one knew, or, would you not have sex with your grandmother and everyone think you did",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "watch your parents having sex 1,000 times, or join in once",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "stick your finger in your dad's butt, or suck all the snot out of a dog's nose?",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "run a mile through the African Serengeti with a large amount of raw meat attached to you, or run a mile through the shittiest part of Detroit shouting the N word every ten seconds",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "constantly be kept upright like a weeble wobble or have play doh come out of all of your orifices when you are squeezed",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have a girlfriend with Katy Perry's head and Newt Gingrich's body or Newt Gingrich's head and Katy Perry's body",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2747,11 +1544,6 @@
       "group": ["friends"]
     },
     {
-      "theme": "relive your birth or watch your conception",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "be eaten by a great white shark or beaten to death by a silver back gorilla",
       "category": ["pg"],
       "group": ["friends"]
@@ -2762,42 +1554,12 @@
       "group": ["friends"]
     },
     {
-      "theme": " get the 'I'm pregnant' or 'I gave you AIDS' text from a girl you hooked up with",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have glow in the dark hair or fart confetti for the rest of your life",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "produce BBQ sauce or eggs from your nipples",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "be two clouds or the number six",
       "category": ["pg"],
       "group": ["friends"]
     },
     {
-      "theme": "eat only one food for the rest of your life (still give you all the nutrients you need) or a grand chef of cuisine make you every meal you are ever going to eat but there is always a slight amount of cum in your meals. Just enough so you know it's there",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "bare knuckle box magic Johnson or be celibate the rest of your life",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "lose your short term memory or your long term memory",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "have vagina lips for eye lids or a foreskin around your neck that you can pull up to your hairline",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2808,11 +1570,6 @@
     },
     {
       "theme": "have a dog sized giraffe, or a giraffe sized dog",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "watch your parents having sex, or have your parents watch you having sex",
       "category": ["pg"],
       "group": ["friends"]
     },
@@ -2833,21 +1590,6 @@
     },
     {
       "theme": "have a beard made of cotton candy, or hair made of spaghetti",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "be able to turn invisible at will (naked), but every time you do you continuously diarrhea and people can see any shit that leaves your skin OR be able to fly for up to 5 hours at a time, but every time you land you go blind and deaf for 4 days",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "stomp 6 kittens to death barefooted or smell butthole constantly for 5 years",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
-      "theme": "never have to wipe your ass or be able to control the smell of your farts",
       "category": ["pg"],
       "group": ["friends"]
     }
