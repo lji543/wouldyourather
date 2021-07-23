@@ -7,6 +7,7 @@ import AddTheme from './components/AddTheme/AddTheme';
 
 import NotFound from './components/NotFound';
 
+// https://fat-bastard.itch.io/wyr
 
 const routes = [
   {
@@ -46,6 +47,24 @@ const routes = [
     //     }
     //   }
     // ]
+  },
+  {
+    name: "The And",
+    path: "theand",
+    response: () => {
+      return {
+        body: ActiveTheme
+      };
+    },
+  },
+  {
+    name: "Esther",
+    path: "esther",
+    response: () => {
+      return {
+        body: ActiveTheme
+      };
+    },
   },
   {
     name: "Topics",

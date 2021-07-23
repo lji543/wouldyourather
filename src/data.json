@@ -1157,11 +1157,6 @@
       "group": ["friends"]
     },
     {
-      "theme": "read minds or accurately predict future",
-      "category": ["g"],
-      "group": ["friends"]
-    },
-    {
       "theme": "visit 100 years in the past or 100 years in the future",
       "category": ["g"],
       "group": ["friends"]
@@ -2277,11 +2272,6 @@
       "group": ["friends"]
     },
     {
-      "theme": "not be able to tell the difference between a muffin and a baby, or change your gender every time you sneeze",
-      "category": ["pg"],
-      "group": ["friends"]
-    },
-    {
       "theme": "have a 3.3 inch penis when erected or have massive, atomic bomb diarrhea every time you poop",
       "category": ["pg"],
       "group": ["friends"]
@@ -2850,6 +2840,362 @@
       "theme": "never have to wipe your ass or be able to control the smell of your farts",
       "category": ["pg"],
       "group": ["friends"]
+    },
+    {
+      "theme": "accidentally text a nude picture of yourself to your parents OR accidentally butt-dial them during sex, and they have to listen to the whole thing",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "accidentally have explosive diarrhea on your partner(s) during sex OR be the one who gets pooped on",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "give up bread forever OR give up oral sex forever",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "loudly orgasm after every time you cough OR come every time you sneeze",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "receive an alert every time your parents have sex OR have your parents receive an alert every time you have sex",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "only be able to have sex in the shower OR only be able to have sex on a table",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "only be able to partake in 30-person orgies for the rest of your life OR never be able to have sex again",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "fall off the bed during sex and break your arm OR start your period during an orgy and get blood on everyone",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "get a butt plug stuck up your butt and have to go to the hospital OR accidentally dislocate your jaw while giving someone oral sex",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "have your best friend date, sleep with, and then marry your dad OR somehow be allergic to all forms of touching and sexual activity",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "have someone finger you immediately after they eat spicy Buffalo wings OR accidentally get part of the skin on your penis torn off because it got stuck on someone's braces",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "try to give someone a rim job but realize they didn't wipe properly OR have someone try to come in your mouth, but they accidentally pee instead",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "have sex once a year, but it's the best sex ever, or have sex everyday, but it's pretty forgettable",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "always be on top, or always be on the bottom",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "have sex with someone dressed up as your worst nightmare, or only be able to achieve orgasms when you're dressed up as other people's worst nightmares",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "be able to perform oral sex on yourself — but never receive it from anyone else, or only be able to receive oral sex from others",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "use a dildo/sex toy that has been used by a friend, and cleaned by you to your satisfaction, or use a fork that has been used by tens of thousands of strangers and questionably cleaned by an underpaid teenager in the back of a restaurant",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "would you rather change genders every time you sneeze or not be able to tell the difference between a baby and a muffin",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "would you rather have your parents walk in on you cutting off your nipples, or walk in on your parents cutting off their nipples",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "speak every language fluently, or play every instrument beautifully",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "have sex with three hot models with no one believing you did it or have coffee with the three hot models with the whole world believing you had sex with them",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "watch Jack and Jill, Paul Blart 2, and Spiderman 3, once per day in succession, or have Adam Sandler and Rob Schneider’s disembodied voices constantly telling the same dick joke to you for the rest of your life",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "give up cheese or blowjobs",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "fight 1,000 ant-sized bulls or one bull-sized ant",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "live forever with an eyelash in your eye or spinach in your teeth",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "adopt a British accent every time you're having a serious conversation or laugh every time someone cries",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "only be able to whisper or only be able to shout",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "get a face tattoo of something of your choosing or a tattoo in a discreet area chosen by someone else",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "accidentally like an old photo of your ex on Instagram or accidentally send a sext to your mom",
+      "category": ["r"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "win $50,000 or let your best friend win $500,000",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "fight Mike Tyson in his prime for 60 seconds or have his voice and lisp permanently",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "invade Russia in the winter, or join a land war in Asia",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "strangle a dog with your bare hands, or strangle a bear with your dog hands",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "have a cat with a human face, or a dog with human hands instead of paws",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "be able to fly, but only for one kilometer at a time without extreme exhaustion, or have super strength but only when you’re in contact with another person",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "get 5 additional years to live but you know the day you die or not know and get nothing",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "receive $50,000 to do what you please. Or $50,000,000 but you are never allowed on any form of transport again",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "talk like Yoda or breathe like Darth Vader",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "wear jeans one size too small or shoes two sizes too big",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "have a head the size of a tennis ball or the size of a watermelon",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "be in a real-life version of The Walking Dead or Jurassic Park",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "have your Netflix viewing history made public or your Spotify listening history made public",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "lose the ability to use GPS for the rest of your life or lose the ability to use a credit card",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "have to hunt for everything you eat or eat only McDonald's for every meal",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "be in a fight club that meets once a month or a book club that meets every day",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "always say what you're thinking or never be able to speak again",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "be forced to sing along to every song that you hear or be forced to dance along to every song that you hear",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "live in the Harry Potter universe with no powers or be a Death Eater",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "your pet be able to speak to you but not understand what you're saying or your pet understand every word you say but not be able to speak",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "glow bright pink every time you're attracted to someone or glow bright red every time someone annoys you",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "wear hideous glasses that are perfect for your eyesight or flattering ones that make your vision a tiny bit blurry",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "own a car with a horn that plays 'YMCA' every time you touch it or own a car with your kid's favorite cartoon painted on the side",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "have to wear a bib every time you go out to eat or drink from a sippy cup every time you're at a bar",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "have to kiss every person you meet or never kiss your partner again",
+      "category": ["pg"],
+      "group": ["friends"]
+    },
+    {
+      "theme": "know when you're going to die or how you're going to die",
+      "category": ["pg"],
+      "group": ["friends"]
     }
+  ],
+  "theAnd": [
+    "what would you warn my partner about me",
+    "what's one improvement I could make to my personal appearance",
+    "what's a memory from your childhood you most want to forget",
+    "what's a memory from you childhood you most want to remember",
+    "what's the one thing I could do that would dramatically improve my life",
+    "if you could have something of mine, what would it be and why",
+    "what was the experience that connected us the best and why",
+    "which one of my insecurities drives you crazy",
+    "what do you wish had never been a part of our experience",
+    "what's your favorite thing about me",
+    "which of our friends do you wish you didn't have to hang out with and why",
+    "what do you love most about our friendship",
+    "what are you learning from me/our friendship",
+    "what is it about me that makes you think I understand you",
+    "when did you realize you could trust me",
+    "what's the most unique thing about me",
+    "15 years from now, how do you think our relationship will have changed",
+    "what is something you are sexually attracted to, but also afraid of",
+    "what's one lesson I could learn that would really help me",
+    "what do you think is my biggest fear",
+    "what part of me or my life are you jealous of and why",
+    "which one of our experiences made you love me the most",
+    "what's your greatest fear about getting older and why",
+    "what's your favorite memory of us and why",
+    "in what ways do you feel we've grown apart",
+    "what's your secret fear when it comes to finances",
+    "if my life right now were a movie, what title would it have",
+    "if you could grant me one wish, what would that wish be",
+    "what is your best impression of me",
+    "what's one piece of advice you have for me regarding my love life",
+    "what do you think holds me back the most",
+    "what do you think life is teaching me right now",
+    "what's a mistake you've made that changed your life",
+    "what do you think my best quality that I'm not aware of is",
+    "how would you describe true love",
+    "what do you think I'm insecure about",
+    "what is a mistake you see me making repeatedly and why do you think I keep making it",
+    "what's your favorite imperfection about me",
+    "what's your favorite imperfection about yourself",
+    "what do you think I want most from life",
+    "what do you want most from life",
+    "what am I hiding"
+  ],
+  "the36": [
+    "Given the choice of anyone in the world, who would you want as a dinner guest?",
+    "Would you like to be famous? In what way",
+    "Before making a phone call, do you ever rehearse what you're going to say? Why",
+    "What would constitute a perfect day for you",
+    "When did you last sing to yourself? To someone else",
+    "If you were able to live to the age of 90 and retain either the mind or body of a 30-year old for the last 60 years of your life, which would you choose",
+    "Do you have a secret hunch about how you will die",
+    "What are three things you and your partner appear to have in common",
+    "For what in your life do you feel most grateful",
+    "If you could change anything about the way you were raised, what would it be",
+    "What is your life story in as much detail as possible",
+    "If you could wake up tomorrow having gained one quality or ability, what would it be",
+    "If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know",
+    "Is there something that you've dreamt of doing for a long time? Why haven't you done it",
+    "What is the greatest accomplishment of your life",
+    "What do you value most in a friendship",
+    "What is your most treasured memory",
+    "What is your most terrible memory",
+    "If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why",
+    "What does friendship mean to you",
+    "What roles do love and affection play in your life",
+    "Name five positive characteristics about your partner. What are five positive characteristics about me",
+    "How close and warm is your family? Do you feel your childhood was happier than most other people's",
+    "How do you feel about your relationship with your mother",
+    "What is an embarrassing moment in your life",
+    "When did you last cry in front of another person? By yourself",
+    "What, if anything, is too serious to be joked about",
+    "If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven't you told them yet",
+    "Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why",
+    "What is a time you didn't share the whole story about what happened",
+    "if you didn't currently do what you’re doing, what would you be doing",
+    "what would your unofficial or 'life resume' list out",
+    "what is the worst date you've ever been on",
+    "what is the best date you've ever been on",
+    "what is the relationship you've learned the most from"
   ]
 }
